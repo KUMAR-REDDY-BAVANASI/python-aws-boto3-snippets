@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import boto3
 
 ec2_obj = boto3.resource('ec2')
